@@ -1,0 +1,4139 @@
+[
+ {
+  "id": "p-yam",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "White Yam Tuber",
+  "unit": "tuber",
+  "price": 1800,
+  "stock": 40,
+  "img": "yam",
+  "desc": "Large, premium white yam from the famous Ikole yam belt of Ekiti.",
+  "measures": [
+   {
+    "unit": "tuber",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "heap",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-yam-water",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Water Yam (Ewura)",
+  "unit": "tuber",
+  "price": 1500,
+  "stock": 30,
+  "img": "yam_water",
+  "desc": "Soft, moist water yam — great boiled, pounded or in porridge.",
+  "measures": [
+   {
+    "unit": "tuber",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "heap",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-yam-yellow",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Yellow Yam",
+  "unit": "tuber",
+  "price": 2000,
+  "stock": 25,
+  "img": "yam_yellow",
+  "desc": "Golden-fleshed yam with a rich taste, lovely for boiling and frying.",
+  "measures": [
+   {
+    "unit": "tuber",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "heap",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-potato",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Sweet Potato",
+  "unit": "heap",
+  "price": 820,
+  "stock": 37,
+  "img": "potato",
+  "desc": "Red-skinned sweet potatoes — naturally sweet.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "basin",
+    "qty": 6.0,
+    "kg": 9
+   },
+   {
+    "unit": "bag",
+    "qty": 20.0,
+    "kg": 30
+   }
+  ]
+ },
+ {
+  "id": "p-irish",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Irish Potato",
+  "unit": "paint_rubber",
+  "price": 4950,
+  "stock": 10,
+  "img": "irish_potato",
+  "desc": "Firm Irish potatoes for chips, porridge and stews.",
+  "measures": [
+   {
+    "unit": "paint_rubber",
+    "qty": 1.0,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 11.111,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-cocoyam",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Cocoyam (Taro)",
+  "unit": "heap",
+  "price": 1600,
+  "stock": 20,
+  "img": "cocoyam",
+  "desc": "Starchy cocoyam corms, used for soups and pottage.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 2
+   },
+   {
+    "unit": "basket",
+    "qty": 7.5,
+    "kg": 15
+   },
+   {
+    "unit": "bag",
+    "qty": 20.0,
+    "kg": 40
+   }
+  ]
+ },
+ {
+  "id": "p-cassava",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Fresh Cassava",
+  "unit": "heap",
+  "price": 1800,
+  "stock": 20,
+  "img": "cassava",
+  "desc": "Freshly harvested cassava roots, ready for fufu or garri.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 12.0,
+    "kg": 48
+   }
+  ]
+ },
+ {
+  "id": "p-beetroot",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Beetroot",
+  "unit": "bunch",
+  "price": 1000,
+  "stock": 30,
+  "img": "beetroot",
+  "desc": "Deep red, sweet beetroot for salads, juices and stews.",
+  "emoji": "🟣",
+  "tip": "Cut the leaves off, leave 2 cm of stem, and keep chilled for up to 3 weeks. Boil whole before peeling to keep the colour.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "p-radish",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Radish (White)",
+  "unit": "bunch",
+  "price": 700,
+  "stock": 25,
+  "img": "radish",
+  "desc": "Crisp, peppery white radish, eaten raw or lightly cooked.",
+  "emoji": "🌱",
+  "tip": "Best fresh in salads. Keep in the fridge and use within a week.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "p-turnip",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Turnip",
+  "unit": "bunch",
+  "price": 800,
+  "stock": 20,
+  "img": "turnip",
+  "desc": "Mild, slightly sweet turnips for soups, stews and roasting.",
+  "emoji": "🧅",
+  "tip": "Peel before cooking; keeps 2 weeks in a cool place.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 8
+   }
+  ]
+ },
+ {
+  "id": "p-potato-orange",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Orange-Fleshed Sweet Potato",
+  "unit": "heap",
+  "price": 1050,
+  "stock": 30,
+  "img": "potato_orange",
+  "desc": "Sweet, vitamin-A-rich orange sweet potato.",
+  "emoji": "🍠",
+  "tip": "Boil, roast or fry. Store cool, dark and dry; never in the fridge.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "basin",
+    "qty": 6.0,
+    "kg": 9
+   },
+   {
+    "unit": "bag",
+    "qty": 20.0,
+    "kg": 30
+   }
+  ]
+ },
+ {
+  "id": "p-potato-purple",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Purple Sweet Potato",
+  "unit": "heap",
+  "price": 1350,
+  "stock": 20,
+  "img": "potato_purple",
+  "desc": "Purple-fleshed sweet potato with a rich, nutty sweetness.",
+  "emoji": "🍠",
+  "tip": "Steam or roast to keep the colour. Store cool and dark.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "basin",
+    "qty": 6.0,
+    "kg": 9
+   },
+   {
+    "unit": "bag",
+    "qty": 20.0,
+    "kg": 30
+   }
+  ]
+ },
+ {
+  "id": "p-yam-puna",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Puna Yam",
+  "unit": "tuber",
+  "price": 2200,
+  "stock": 30,
+  "img": "yam_puna",
+  "desc": "Firm, white Puna yam known for pounding smooth.",
+  "emoji": "🥔",
+  "tip": "Great for pounded yam and boiling. Keep in a ventilated, shaded place.",
+  "measures": [
+   {
+    "unit": "tuber",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "heap",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-yam-bean",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Yam Bean (Jicama)",
+  "unit": "piece",
+  "price": 500,
+  "stock": 80,
+  "img": "yam_bean",
+  "desc": "Crunchy, juicy, lightly sweet jicama root.",
+  "emoji": "🥔",
+  "tip": "Peel and eat raw in salads or with pepper. Keep chilled up to 2 weeks.",
+  "measures": [
+   {
+    "unit": "piece",
+    "qty": 1
+   },
+   {
+    "unit": "heap",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "id": "p-cassava-sweet",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Sweet Cassava (Eating Variety)",
+  "unit": "heap",
+  "price": 2000,
+  "stock": 18,
+  "img": "cassava_sweet",
+  "desc": "Low-bitterness cassava that can be boiled or fried.",
+  "emoji": "🥔",
+  "tip": "Cook within 2–3 days of purchase because cassava spoils fast.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 12.0,
+    "kg": 48
+   }
+  ]
+ },
+ {
+  "id": "p-yam-aerial",
+  "kind": "produce",
+  "category": "tubers",
+  "name": "Aerial Yam",
+  "unit": "heap",
+  "price": 1400,
+  "stock": 20,
+  "img": "yam_aerial",
+  "desc": "Small yam-like tubers that grow on the vine, good boiled or roasted.",
+  "emoji": "🥔",
+  "tip": "Peel, boil well and eat with stew or oil. Use within a week.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basin",
+    "qty": 6.0,
+    "kg": 6
+   }
+  ]
+ },
+ {
+  "id": "p-maize",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Sweet Maize (Corn)",
+  "unit": "cob",
+  "price": 150,
+  "stock": 5,
+  "img": "maize",
+  "desc": "Fresh sweet corn on the cob, harvested this morning from the field.",
+  "measures": [
+   {
+    "unit": "cob",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   },
+   {
+    "unit": "sack",
+    "qty": 100
+   }
+  ]
+ },
+ {
+  "id": "p-rice-ofada",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Ofada Rice (Local Unpolished)",
+  "unit": "kg",
+  "price": 2800,
+  "stock": 600,
+  "img": "rice_ofada",
+  "desc": "Aromatic local ofada rice, stone-free and carefully sorted.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "mudu",
+    "qty": 1.5
+   },
+   {
+    "unit": "derica",
+    "qty": 1.8
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0
+   },
+   {
+    "unit": "bag",
+    "qty": 50.0
+   }
+  ]
+ },
+ {
+  "id": "p-rice-local",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Local Long-Grain Rice",
+  "unit": "kg",
+  "price": 2200,
+  "stock": 800,
+  "img": "rice_local",
+  "desc": "Clean local parboiled long-grain rice for jollof and everyday meals.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "mudu",
+    "qty": 1.5
+   },
+   {
+    "unit": "derica",
+    "qty": 1.8
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0
+   },
+   {
+    "unit": "bag",
+    "qty": 50.0
+   }
+  ]
+ },
+ {
+  "id": "p-maize-white",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Dry White Maize",
+  "unit": "derica",
+  "price": 1530,
+  "stock": 882,
+  "img": "maize_white",
+  "desc": "Clean, dry white maize grain for pap, milling and feed.",
+  "emoji": "🌽",
+  "tip": "Keep sealed and dry; milled maize makes ogi (pap) and tuwo.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.7
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.647,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 58.824,
+    "kg": 100
+   },
+   {
+    "unit": "tonne",
+    "qty": 588.235,
+    "kg": 1000
+   }
+  ]
+ },
+ {
+  "id": "p-maize-yellow",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Dry Yellow Maize",
+  "unit": "derica",
+  "price": 1440,
+  "stock": 882,
+  "img": "maize_yellow",
+  "desc": "Dry yellow maize for grits, milling and animal feed.",
+  "emoji": "🌽",
+  "tip": "Store in a dry, airy bag away from damp.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.7
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.647,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 58.824,
+    "kg": 100
+   },
+   {
+    "unit": "tonne",
+    "qty": 588.235,
+    "kg": 1000
+   }
+  ]
+ },
+ {
+  "id": "p-popcorn",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Popcorn Kernels",
+  "unit": "packet",
+  "price": 900,
+  "stock": 400,
+  "img": "popcorn",
+  "desc": "Pop-ready kernels for a quick, crunchy snack.",
+  "emoji": "🍿",
+  "tip": "Heat in a covered pot with a little oil; keep kernels sealed so they stay poppable.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-sorghum-red",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Red Guinea Corn (Sorghum)",
+  "unit": "mudu",
+  "price": 1500,
+  "stock": 533,
+  "img": "sorghum_red",
+  "desc": "Red sorghum for pap, kunu and traditional brews.",
+  "emoji": "🌾",
+  "tip": "Wash, soak and mill for kunu or pap. Keep dry.",
+  "measures": [
+   {
+    "unit": "mudu",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.0,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 66.667,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-sorghum-white",
+  "kind": "produce",
+  "category": "grains",
+  "name": "White Guinea Corn (Sorghum)",
+  "unit": "mudu",
+  "price": 1580,
+  "stock": 467,
+  "img": "sorghum_white",
+  "desc": "White sorghum for tuwo, kunu and porridge.",
+  "emoji": "🌾",
+  "tip": "Pound or mill for tuwo. Keep dry and sealed.",
+  "measures": [
+   {
+    "unit": "mudu",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.0,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 66.667,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-millet",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Pearl Millet (Jero)",
+  "unit": "mudu",
+  "price": 1650,
+  "stock": 400,
+  "img": "millet",
+  "desc": "Nutritious pearl millet for fura, tuwo and porridge.",
+  "emoji": "🌾",
+  "tip": "Wash well, then use for fura or tuwo. Store dry.",
+  "measures": [
+   {
+    "unit": "mudu",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.0,
+    "kg": 4.5
+   },
+   {
+    "unit": "bag",
+    "qty": 66.667,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-acha",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Acha (Fonio)",
+  "unit": "packet",
+  "price": 1750,
+  "stock": 400,
+  "img": "acha",
+  "desc": "Tiny, quick-cooking fonio grain, a premium traditional cereal.",
+  "emoji": "🌾",
+  "tip": "Steam like couscous in 10 minutes or cook as porridge. Rinse to remove grit.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-rice-brown",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Brown Rice (Whole Grain)",
+  "unit": "kg",
+  "price": 3000,
+  "stock": 300,
+  "img": "rice_brown",
+  "desc": "Whole-grain brown rice, higher in fibre than white rice.",
+  "emoji": "🍚",
+  "tip": "Needs more water and about 40 minutes to cook. Keep sealed.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0
+   }
+  ]
+ },
+ {
+  "id": "p-rice-bag",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Local Rice (50kg Bag)",
+  "unit": "bag",
+  "price": 105000,
+  "stock": 60,
+  "img": "rice_bag",
+  "desc": "Full 50 kg bag of clean local rice, ideal for homes, events and resale.",
+  "emoji": "🍚",
+  "tip": "Store raised off the floor in a dry room.",
+  "measures": [
+   {
+    "unit": "bag",
+    "qty": 1
+   },
+   {
+    "unit": "tonne",
+    "qty": 20,
+    "kg": 1000
+   }
+  ]
+ },
+ {
+  "id": "p-wheat",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Wheat Grain",
+  "unit": "kg",
+  "price": 1300,
+  "stock": 400,
+  "img": "wheat",
+  "desc": "Whole wheat grain for milling and baking.",
+  "emoji": "🌾",
+  "tip": "Mill into flour or boil whole for porridge. Keep dry.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "bag",
+    "qty": 50.0
+   }
+  ]
+ },
+ {
+  "id": "p-oats",
+  "kind": "produce",
+  "category": "grains",
+  "name": "Oats (Whole Grain)",
+  "unit": "packet",
+  "price": 1600,
+  "stock": 300,
+  "img": "oats",
+  "desc": "Whole oats for breakfast porridge and baking.",
+  "emoji": "🥣",
+  "tip": "Cook with milk or water for 5–10 minutes. Keep sealed.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-greenbeans",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Green Beans",
+  "unit": "heap",
+  "price": 650,
+  "stock": 50,
+  "img": "greenbeans",
+  "desc": "Crisp green beans for fried rice and stir-fry.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-beans-brown",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Brown Beans (Oloyin)",
+  "unit": "derica",
+  "price": 3360,
+  "stock": 438,
+  "img": "beans_brown",
+  "desc": "Sweet, honey-type brown beans for ewa agoyin, moi moi and porridge.",
+  "emoji": "🫘",
+  "tip": "Pick out stones, soak, then boil. Keeps a year when dry and sealed.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.6
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.5,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 31.25,
+    "kg": 50
+   },
+   {
+    "unit": "sack",
+    "qty": 62.5,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-beans-white",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "White Beans (Ewa Funfun)",
+  "unit": "derica",
+  "price": 3040,
+  "stock": 438,
+  "img": "beans_white",
+  "desc": "Clean white beans for moi moi, akara and beans porridge.",
+  "emoji": "🫘",
+  "tip": "Soak and peel for smooth akara and moi moi.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.6
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.5,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 31.25,
+    "kg": 50
+   },
+   {
+    "unit": "sack",
+    "qty": 62.5,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-soybeans",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Soybeans",
+  "unit": "derica",
+  "price": 2250,
+  "stock": 333,
+  "img": "soybeans",
+  "desc": "Protein-rich soybeans for soy milk, flour and cooking.",
+  "emoji": "🫘",
+  "tip": "Boil thoroughly; never eat raw. Great for soy milk and daddawa.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.667,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 33.333,
+    "kg": 50
+   },
+   {
+    "unit": "sack",
+    "qty": 66.667,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-groundnut-shelled",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Groundnut (Shelled)",
+  "unit": "derica",
+  "price": 2990,
+  "stock": 308,
+  "img": "groundnut_shelled",
+  "desc": "Clean shelled groundnuts for roasting, groundnut oil and sauces.",
+  "emoji": "🥜",
+  "tip": "Roast, boil or grind. Store cool and dry to prevent mould.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.3
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.077,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 38.462,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-groundnut-inshell",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Groundnut (In Shell)",
+  "unit": "paint_rubber",
+  "price": 3500,
+  "stock": 160,
+  "img": "groundnut_inshell",
+  "desc": "Groundnuts in the shell, fresh and ready to boil or roast.",
+  "emoji": "🥜",
+  "tip": "Boil in the shell with salt or roast. Keep dry.",
+  "measures": [
+   {
+    "unit": "paint_rubber",
+    "qty": 1.0,
+    "kg": 2.5
+   },
+   {
+    "unit": "bag",
+    "qty": 16.0,
+    "kg": 40
+   }
+  ]
+ },
+ {
+  "id": "p-bambara",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Bambara Nut",
+  "unit": "mudu",
+  "price": 3640,
+  "stock": 143,
+  "img": "bambara",
+  "desc": "Traditional bambara groundnut for okpa and porridge.",
+  "emoji": "🫘",
+  "tip": "Soak overnight and cook long, or mill for okpa.",
+  "measures": [
+   {
+    "unit": "mudu",
+    "qty": 1.0,
+    "kg": 1.4
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.857,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 35.714,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-pigeon-pea",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Pigeon Pea (Fiofio)",
+  "unit": "derica",
+  "price": 3000,
+  "stock": 100,
+  "img": "pigeon_pea",
+  "desc": "Fiofio pigeon peas for porridge, stews and soups.",
+  "emoji": "🫘",
+  "tip": "Soak, then simmer until soft. Keep dry.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.5
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.667,
+    "kg": 4
+   },
+   {
+    "unit": "bag",
+    "qty": 33.333,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-sese",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "African Yam Bean (Sese)",
+  "unit": "packet",
+  "price": 1600,
+  "stock": 200,
+  "img": "sese",
+  "desc": "Rare, protein-rich African yam bean for traditional dishes.",
+  "emoji": "🫘",
+  "tip": "Needs long soaking and slow cooking.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-egusi",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Egusi (Melon Seeds)",
+  "unit": "derica",
+  "price": 3600,
+  "stock": 312,
+  "img": "egusi",
+  "desc": "Shelled egusi seeds for the classic Nigerian soup.",
+  "emoji": "🌰",
+  "tip": "Grind and fry in oil for egusi soup. Keep cool and dry.",
+  "measures": [
+   {
+    "unit": "tin",
+    "qty": 0.5,
+    "kg": 0.4
+   },
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 0.8
+   },
+   {
+    "unit": "kg",
+    "qty": 1.25,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 6.25,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-sesame",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Beniseed (Sesame)",
+  "unit": "derica",
+  "price": 3360,
+  "stock": 208,
+  "img": "sesame",
+  "desc": "Clean sesame seeds for toasting, oil and sauces.",
+  "emoji": "🌰",
+  "tip": "Toast lightly and use on bread, in sauces or for oil. Store cool.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.2
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 2.917,
+    "kg": 3.5
+   },
+   {
+    "unit": "bag",
+    "qty": 41.667,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-sunflower",
+  "kind": "produce",
+  "category": "legumes",
+  "name": "Sunflower Seeds",
+  "unit": "packet",
+  "price": 1200,
+  "stock": 300,
+  "img": "sunflower",
+  "desc": "Raw sunflower seeds for snacking and oil.",
+  "emoji": "🌻",
+  "tip": "Roast lightly for snacking. Keep sealed and cool.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-tigernut",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Tiger Nut",
+  "unit": "bowl",
+  "price": 1200,
+  "stock": 35,
+  "img": "tigernut",
+  "desc": "Sweet, chewy tiger nuts — snack or make kunun aya.",
+  "measures": [
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basin",
+    "qty": 5.0,
+    "kg": 5
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-pineapple",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Pineapple",
+  "unit": "piece",
+  "price": 1200,
+  "stock": 80,
+  "img": "pineapple",
+  "desc": "Sweet, juicy farm pineapple.",
+  "emoji": "🍍",
+  "tip": "Ripe when fragrant at the base. Eat within 3–4 days or chill cut fruit.",
+  "measures": [
+   {
+    "unit": "piece",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-watermelon",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Watermelon",
+  "unit": "piece",
+  "price": 2500,
+  "stock": 50,
+  "img": "watermelon",
+  "desc": "Large, sweet watermelon, great for hot days.",
+  "emoji": "🍉",
+  "tip": "Chill before cutting. A ripe one sounds hollow when tapped.",
+  "measures": [
+   {
+    "unit": "piece",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "p-orange",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Sweet Oranges",
+  "unit": "heap",
+  "price": 500,
+  "stock": 300,
+  "img": "orange",
+  "desc": "Juicy sweet oranges for eating and juice.",
+  "emoji": "🍊",
+  "tip": "Keep cool; they last about a week, longer in the fridge.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 40
+   },
+   {
+    "unit": "sack",
+    "qty": 100
+   }
+  ]
+ },
+ {
+  "id": "p-banana",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Bananas",
+  "unit": "hand",
+  "price": 400,
+  "stock": 360,
+  "img": "banana",
+  "desc": "Sweet bananas sold by the bunch.",
+  "emoji": "🍌",
+  "tip": "Ripen at room temperature; keep away from other fruit if you want them slower.",
+  "measures": [
+   {
+    "unit": "hand",
+    "qty": 1
+   },
+   {
+    "unit": "bunch",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "id": "p-plantain-unripe",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Unripe Plantain",
+  "unit": "hand",
+  "price": 700,
+  "stock": 280,
+  "img": "plantain_unripe",
+  "desc": "Firm green plantains for boiling, chips and porridge.",
+  "emoji": "🍌",
+  "tip": "Keep at room temperature; use within a week or let it ripen.",
+  "measures": [
+   {
+    "unit": "hand",
+    "qty": 1
+   },
+   {
+    "unit": "bunch",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-plantain-ripe",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Ripe Plantain",
+  "unit": "hand",
+  "price": 750,
+  "stock": 160,
+  "img": "plantain_ripe",
+  "desc": "Soft, yellow plantains for dodo (fried plantain) and roasting (boli).",
+  "emoji": "🍌",
+  "tip": "Use within 2–3 days; peel and freeze extras for dodo.",
+  "measures": [
+   {
+    "unit": "hand",
+    "qty": 1
+   },
+   {
+    "unit": "bunch",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-pawpaw",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Pawpaw (Papaya)",
+  "unit": "piece",
+  "price": 1000,
+  "stock": 60,
+  "img": "pawpaw",
+  "desc": "Sweet, soft pawpaw rich in vitamins.",
+  "emoji": "🥭",
+  "tip": "Ripe when the skin yellows and gives slightly. Chill and eat within 3 days.",
+  "measures": [
+   {
+    "unit": "piece",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-mango",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Mango",
+  "unit": "heap",
+  "price": 600,
+  "stock": 150,
+  "img": "mango",
+  "desc": "Sweet, juicy seasonal mangoes.",
+  "emoji": "🥭",
+  "tip": "Ripen at room temperature, then refrigerate.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 30
+   }
+  ]
+ },
+ {
+  "id": "p-avocado",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Avocado Pear",
+  "unit": "heap",
+  "price": 800,
+  "stock": 80,
+  "img": "avocado",
+  "desc": "Creamy avocado pears for eating, salads and smoothies.",
+  "emoji": "🥑",
+  "tip": "Ripe when it gives under gentle pressure. Keep cut halves with the stone.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1
+   },
+   {
+    "unit": "crate",
+    "qty": 15
+   }
+  ]
+ },
+ {
+  "id": "p-coconut",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Coconut",
+  "unit": "piece",
+  "price": 600,
+  "stock": 150,
+  "img": "coconut",
+  "desc": "Fresh coconuts with sweet water and firm flesh.",
+  "emoji": "🥥",
+  "tip": "Drink the water first, then eat or grate the flesh for rice and snacks.",
+  "measures": [
+   {
+    "unit": "piece",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   },
+   {
+    "unit": "bag",
+    "qty": 25
+   }
+  ]
+ },
+ {
+  "id": "p-cashew",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Cashew Nuts (Raw, Shelled)",
+  "unit": "packet",
+  "price": 1880,
+  "stock": 320,
+  "img": "cashew",
+  "desc": "Shelled raw cashew nuts, a premium snack and cooking nut.",
+  "emoji": "🥜",
+  "tip": "Roast lightly before eating. Keep sealed in a cool place.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.25
+   },
+   {
+    "unit": "kg",
+    "qty": 4.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 20.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-kolanut",
+  "kind": "produce",
+  "category": "fruits",
+  "name": "Kola Nut",
+  "unit": "bowl",
+  "price": 1500,
+  "stock": 120,
+  "img": "kolanut",
+  "desc": "Traditional kola nuts for ceremonies and chewing.",
+  "emoji": "🌰",
+  "tip": "Keep damp in a leaf or cloth so it stays fresh.",
+  "measures": [
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 20.0,
+    "kg": 10
+   }
+  ]
+ },
+ {
+  "id": "p-tomato",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Ripe Tomatoes",
+  "unit": "heap",
+  "price": 490,
+  "stock": 200,
+  "img": "tomato",
+  "desc": "Plump, vine-ripened tomatoes. Perfect for stews, sauces and soups.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.7
+   },
+   {
+    "unit": "bowl",
+    "qty": 3.571,
+    "kg": 2.5
+   },
+   {
+    "unit": "basket",
+    "qty": 35.714,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-pumpkin",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Farm Pumpkin",
+  "unit": "piece",
+  "price": 1800,
+  "stock": 40,
+  "img": "pumpkin",
+  "desc": "Large, fresh pumpkin — ideal for porridge, soups and seeds."
+ },
+ {
+  "id": "p-cucumber",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Green Cucumbers",
+  "unit": "heap",
+  "price": 600,
+  "stock": 100,
+  "img": "cucumber",
+  "desc": "Crisp, field-grown cucumbers — great fresh, in salads, or juiced.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 25
+   }
+  ]
+ },
+ {
+  "id": "p-ugu",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Fluted Pumpkin Leaf (Ugu)",
+  "unit": "bunch",
+  "price": 400,
+  "stock": 60,
+  "img": "ugu",
+  "desc": "Fresh ugu leaves for efo riro, egusi and vegetable soup.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-efo-tete",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Efo Tete (Green Amaranth)",
+  "unit": "bunch",
+  "price": 300,
+  "stock": 60,
+  "img": "efo_tete",
+  "desc": "Tender green amaranth leaves, a Yoruba soup staple.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-efo-shoko",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Efo Shoko (Celosia)",
+  "unit": "bunch",
+  "price": 300,
+  "stock": 50,
+  "img": "efo_shoko",
+  "desc": "Soft celosia leaves, lovely cooked in stew or with palm oil.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-ewedu",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Ewedu (Jute Leaf)",
+  "unit": "bunch",
+  "price": 250,
+  "stock": 50,
+  "img": "ewedu",
+  "desc": "Fresh jute leaves for smooth, slippery ewedu soup.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-waterleaf",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Waterleaf",
+  "unit": "bunch",
+  "price": 300,
+  "stock": 60,
+  "img": "waterleaf",
+  "desc": "Juicy waterleaf for edikang ikong, afang and everyday soups.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-bitterleaf",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Bitter Leaf",
+  "unit": "bunch",
+  "price": 350,
+  "stock": 45,
+  "img": "bitterleaf",
+  "desc": "Washed, ready-to-use bitter leaf for ofe onugbu and soups.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-okra",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Okra",
+  "unit": "heap",
+  "price": 450,
+  "stock": 100,
+  "img": "okra",
+  "desc": "Young, tender okra pods — perfect for draw soup.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "bowl",
+    "qty": 4.0,
+    "kg": 2
+   },
+   {
+    "unit": "basket",
+    "qty": 30.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-gardenegg",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Garden Egg",
+  "unit": "heap",
+  "price": 400,
+  "stock": 80,
+  "img": "gardenegg",
+  "desc": "Fresh garden eggs, eaten raw with groundnut or cooked in sauces.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "bowl",
+    "qty": 4.0,
+    "kg": 2
+   },
+   {
+    "unit": "basket",
+    "qty": 20.0,
+    "kg": 10
+   }
+  ]
+ },
+ {
+  "id": "p-onion",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Onions",
+  "unit": "heap",
+  "price": 550,
+  "stock": 140,
+  "img": "onion",
+  "desc": "Firm, well-cured onions for everyday cooking.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "basin",
+    "qty": 20.0,
+    "kg": 10
+   },
+   {
+    "unit": "sack",
+    "qty": 200.0,
+    "kg": 100
+   }
+  ]
+ },
+ {
+  "id": "p-carrot",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Carrots",
+  "unit": "heap",
+  "price": 500,
+  "stock": 80,
+  "img": "carrot",
+  "desc": "Sweet, crunchy carrots for salads, rice and juice.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 30.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-cabbage",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Cabbage",
+  "unit": "head",
+  "price": 700,
+  "stock": 35,
+  "img": "cabbage",
+  "desc": "Fresh, tight green cabbage heads for salads and stir-fry.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-lettuce",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Lettuce",
+  "unit": "head",
+  "price": 600,
+  "stock": 30,
+  "img": "lettuce",
+  "desc": "Crunchy lettuce heads for salads and sandwiches.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-spinach",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Spinach",
+  "unit": "bunch",
+  "price": 400,
+  "stock": 40,
+  "img": "spinach",
+  "desc": "Fresh spinach leaves, perfect for soups and smoothies.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-oha",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Oha Leaf",
+  "unit": "bunch",
+  "price": 600,
+  "stock": 40,
+  "img": "oha",
+  "desc": "Tender oha leaves for the famous oha soup.",
+  "emoji": "🌿",
+  "tip": "Tear (do not cut) and add late in cooking. Use within 2 days.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-afang",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Afang Leaf (Okazi)",
+  "unit": "bunch",
+  "price": 700,
+  "stock": 35,
+  "img": "afang",
+  "desc": "Shredded-ready afang leaf for afang soup.",
+  "emoji": "🌿",
+  "tip": "Slice very thin, pound or blend, and cook with waterleaf. Use within 2 days.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-cauliflower",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Cauliflower",
+  "unit": "head",
+  "price": 1500,
+  "stock": 25,
+  "img": "cauliflower",
+  "desc": "Firm, white cauliflower heads.",
+  "emoji": "🥦",
+  "tip": "Steam, roast or stir-fry. Keep chilled up to a week.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-broccoli",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Broccoli",
+  "unit": "head",
+  "price": 1800,
+  "stock": 20,
+  "img": "broccoli",
+  "desc": "Fresh green broccoli for stir-fries and rice.",
+  "emoji": "🥦",
+  "tip": "Steam lightly to keep the colour. Use within 4–5 days.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "p-bellpepper-green",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Green Bell Pepper",
+  "unit": "heap",
+  "price": 600,
+  "stock": 70,
+  "img": "bellpepper_green",
+  "desc": "Crisp green bell peppers for fried rice, salads and sauces.",
+  "emoji": "🫑",
+  "tip": "Keep dry in the fridge up to 10 days.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "bowl",
+    "qty": 4.0,
+    "kg": 2
+   },
+   {
+    "unit": "basket",
+    "qty": 20.0,
+    "kg": 10
+   }
+  ]
+ },
+ {
+  "id": "p-spring-onion",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Spring Onions",
+  "unit": "bunch",
+  "price": 400,
+  "stock": 50,
+  "img": "spring_onion",
+  "desc": "Fresh spring onions for garnish, fried rice and stir-fry.",
+  "emoji": "🌱",
+  "tip": "Wrap in a damp cloth in the fridge; use within a week.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "id": "p-celery",
+  "kind": "produce",
+  "category": "vegetables",
+  "name": "Celery",
+  "unit": "bunch",
+  "price": 700,
+  "stock": 30,
+  "img": "celery",
+  "desc": "Crisp celery stalks for soups, salads and rice dishes.",
+  "emoji": "🥬",
+  "tip": "Keep upright in water in the fridge for up to 2 weeks.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-pepper",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Fresh Pepper (Tatashe & Rodo Mix)",
+  "unit": "bowl",
+  "price": 850,
+  "stock": 60,
+  "img": "pepper",
+  "desc": "Freshly harvested Tatashe and Rodo pepper blend, sorted and ready for stews.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 0.25,
+    "kg": 0.25
+   },
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 15.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-pepper-rodo",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Ata Rodo (Scotch Bonnet)",
+  "unit": "bowl",
+  "price": 1500,
+  "stock": 40,
+  "img": "pepper_rodo",
+  "desc": "Fiery, fruity scotch bonnet — the classic Nigerian hot pepper.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 0.25,
+    "kg": 0.25
+   },
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 15.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-pepper-tatashe",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Tatashe (Red Bell Pepper)",
+  "unit": "bowl",
+  "price": 1100,
+  "stock": 45,
+  "img": "pepper_tatashe",
+  "desc": "Large, mild red peppers that give stews their deep colour.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 0.25,
+    "kg": 0.25
+   },
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 15.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-pepper-shombo",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Shombo (Long Cayenne Pepper)",
+  "unit": "bowl",
+  "price": 900,
+  "stock": 50,
+  "img": "pepper_shombo",
+  "desc": "Long, medium-hot cayenne pepper, great fresh or dried.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 0.25,
+    "kg": 0.25
+   },
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 15.0,
+    "kg": 15
+   }
+  ]
+ },
+ {
+  "id": "p-pepper-wewe",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Ata Wewe (Small Hot Chilli)",
+  "unit": "heap",
+  "price": 260,
+  "stock": 150,
+  "img": "pepper_wewe",
+  "desc": "Tiny, very hot chillies for pepper soup and sauces.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.2
+   },
+   {
+    "unit": "bowl",
+    "qty": 5.0,
+    "kg": 1
+   },
+   {
+    "unit": "basket",
+    "qty": 50.0,
+    "kg": 10
+   }
+  ]
+ },
+ {
+  "id": "p-pepper-cameroon",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Cameroon Pepper (Ata Ijosi)",
+  "unit": "tin",
+  "price": 490,
+  "stock": 71,
+  "img": "pepper_cameroon",
+  "desc": "Small, aromatic and very hot — a favourite for dry pepper.",
+  "measures": [
+   {
+    "unit": "tin",
+    "qty": 1.0,
+    "kg": 0.35
+   },
+   {
+    "unit": "kg",
+    "qty": 2.857,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-scentleaf",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Scent Leaf (Efirin)",
+  "unit": "bunch",
+  "price": 250,
+  "stock": 45,
+  "img": "scentleaf",
+  "desc": "Aromatic scent leaf for pepper soup and stews.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-ginger",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Fresh Ginger",
+  "unit": "heap",
+  "price": 900,
+  "stock": 60,
+  "img": "ginger",
+  "desc": "Spicy fresh ginger roots for tea, cooking and drinks.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "basin",
+    "qty": 16.0,
+    "kg": 8
+   }
+  ]
+ },
+ {
+  "id": "p-turmeric",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Fresh Turmeric",
+  "unit": "heap",
+  "price": 1000,
+  "stock": 40,
+  "img": "turmeric",
+  "desc": "Fresh turmeric roots for cooking, tea and wellness drinks.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "basin",
+    "qty": 16.0,
+    "kg": 8
+   }
+  ]
+ },
+ {
+  "id": "p-garlic",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Garlic",
+  "unit": "heap",
+  "price": 1120,
+  "stock": 240,
+  "img": "garlic",
+  "desc": "Firm, aromatic garlic bulbs.",
+  "emoji": "🧄",
+  "tip": "Store dry and airy for months; crush fresh for the best flavour.",
+  "measures": [
+   {
+    "unit": "heap",
+    "qty": 1.0,
+    "kg": 0.25
+   },
+   {
+    "unit": "kg",
+    "qty": 4.0,
+    "kg": 1
+   },
+   {
+    "unit": "sack",
+    "qty": 160.0,
+    "kg": 40
+   }
+  ]
+ },
+ {
+  "id": "p-uziza-leaf",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Uziza Leaf",
+  "unit": "bunch",
+  "price": 300,
+  "stock": 50,
+  "img": "uziza_leaf",
+  "desc": "Peppery uziza leaves for soups and pepper soup.",
+  "emoji": "🌿",
+  "tip": "Slice fine and add near the end. Use within 3 days or dry.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-uziza-seed",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Uziza Seeds",
+  "unit": "packet",
+  "price": 900,
+  "stock": 300,
+  "img": "uziza_seed",
+  "desc": "Dried uziza seeds, a hot, aromatic seasoning.",
+  "emoji": "🌶️",
+  "tip": "Grind and use sparingly in pepper soup and stews. Keep sealed.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-utazi",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Utazi Leaf",
+  "unit": "bunch",
+  "price": 350,
+  "stock": 40,
+  "img": "utazi",
+  "desc": "Bitter-sweet utazi leaf for soups and traditional dishes.",
+  "emoji": "🌿",
+  "tip": "Wash and slice fine; a little goes a long way.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-lemongrass",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Lemongrass (Fresh)",
+  "unit": "bunch",
+  "price": 300,
+  "stock": 45,
+  "img": "lemongrass",
+  "desc": "Fragrant lemongrass stalks for tea and soups.",
+  "emoji": "🌾",
+  "tip": "Boil as tea or add to soups. Freezes well.",
+  "measures": [
+   {
+    "unit": "bunch",
+    "qty": 1
+   },
+   {
+    "unit": "bundle",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "p-cloves",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Cloves (Dried)",
+  "unit": "packet",
+  "price": 1400,
+  "stock": 250,
+  "img": "cloves",
+  "desc": "Whole dried cloves, a strong aromatic spice.",
+  "emoji": "🌰",
+  "tip": "Use one or two per pot; keep sealed away from light.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-ehuru",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Calabash Nutmeg (Ehuru)",
+  "unit": "packet",
+  "price": 1600,
+  "stock": 200,
+  "img": "ehuru",
+  "desc": "Ehuru, the fragrant calabash nutmeg used in pepper soup.",
+  "emoji": "🌰",
+  "tip": "Toast, crack and grind just before using.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-atare",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Alligator Pepper (Atare)",
+  "unit": "packet",
+  "price": 1800,
+  "stock": 150,
+  "img": "atare",
+  "desc": "Atare seeds used in traditional ceremonies and spice blends.",
+  "emoji": "🌶️",
+  "tip": "Crush the seeds and use in small amounts.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-uda",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Grains of Selim (Uda)",
+  "unit": "packet",
+  "price": 1300,
+  "stock": 200,
+  "img": "uda",
+  "desc": "Smoky, aromatic uda pods for pepper soup and stews.",
+  "emoji": "🌰",
+  "tip": "Toast and crush before use; keep sealed.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-thyme",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Thyme (Dried)",
+  "unit": "packet",
+  "price": 900,
+  "stock": 250,
+  "img": "thyme",
+  "desc": "Dried thyme for stews, jollof and meat.",
+  "emoji": "🌿",
+  "tip": "Add early to stews. Keep in an airtight jar.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "sachet",
+    "qty": 0.25,
+    "kg": 0.025
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-bayleaf",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Bay Leaves (Dried)",
+  "unit": "packet",
+  "price": 800,
+  "stock": 250,
+  "img": "bayleaf",
+  "desc": "Dried bay leaves for rice, stews and soups.",
+  "emoji": "🍃",
+  "tip": "Add whole and remove before serving.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "sachet",
+    "qty": 0.25,
+    "kg": 0.025
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-blackpepper",
+  "kind": "produce",
+  "category": "spices",
+  "name": "Black Pepper (Peppercorns)",
+  "unit": "packet",
+  "price": 1200,
+  "stock": 300,
+  "img": "blackpepper",
+  "desc": "Whole black peppercorns with a sharp, warm bite.",
+  "emoji": "⚫",
+  "tip": "Grind fresh for the best flavour; keep sealed.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.1
+   },
+   {
+    "unit": "sachet",
+    "qty": 0.25,
+    "kg": 0.025
+   },
+   {
+    "unit": "g",
+    "qty": 2.5,
+    "kg": 0.25
+   },
+   {
+    "unit": "g",
+    "qty": 5.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-garri-white",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Garri (White)",
+  "unit": "derica",
+  "price": 1100,
+  "stock": 455,
+  "img": "garri_white",
+  "desc": "Crisp, well-fried white garri — fine, clean and sour-free.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.1
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.0,
+    "kg": 3.3
+   },
+   {
+    "unit": "bag",
+    "qty": 22.727,
+    "kg": 25
+   },
+   {
+    "unit": "sack",
+    "qty": 45.455,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-garri-yellow",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Garri (Yellow)",
+  "unit": "derica",
+  "price": 1320,
+  "stock": 455,
+  "img": "garri_yellow",
+  "desc": "Palm-oil yellow garri with a rich colour and taste.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1.1
+   },
+   {
+    "unit": "paint_rubber",
+    "qty": 3.0,
+    "kg": 3.3
+   },
+   {
+    "unit": "bag",
+    "qty": 22.727,
+    "kg": 25
+   },
+   {
+    "unit": "sack",
+    "qty": 45.455,
+    "kg": 50
+   }
+  ]
+ },
+ {
+  "id": "p-lafun",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Cassava Flour (Lafun)",
+  "unit": "derica",
+  "price": 1300,
+  "stock": 300,
+  "img": "lafun",
+  "desc": "Smooth, fine lafun for a soft, stretchy amala.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0,
+    "kg": 5
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-fufu",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Fufu Flour",
+  "unit": "derica",
+  "price": 1400,
+  "stock": 300,
+  "img": "fufu_flour",
+  "desc": "Quick-mix cassava fufu flour — just add hot water.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0,
+    "kg": 5
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-palm-oil",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Red Palm Oil (1 Litre)",
+  "unit": "litre",
+  "price": 2800,
+  "stock": 300,
+  "img": "palm_oil",
+  "desc": "Pure, unbleached red palm oil for stews, banga and ofada sauce.",
+  "emoji": "🛢️",
+  "tip": "Keep sealed away from heat. It may solidify in cool weather; warm gently to pour.",
+  "measures": [
+   {
+    "unit": "ml",
+    "qty": 0.5
+   },
+   {
+    "unit": "litre",
+    "qty": 1
+   },
+   {
+    "unit": "bottle",
+    "qty": 0.75
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 5
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 25
+   }
+  ]
+ },
+ {
+  "id": "p-groundnut-oil",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Groundnut Oil (1 Litre)",
+  "unit": "litre",
+  "price": 4200,
+  "stock": 200,
+  "img": "groundnut_oil",
+  "desc": "Golden groundnut oil for frying and cooking.",
+  "emoji": "🛢️",
+  "tip": "Good for frying at high heat. Store in a cool, dark place.",
+  "measures": [
+   {
+    "unit": "ml",
+    "qty": 0.5
+   },
+   {
+    "unit": "litre",
+    "qty": 1
+   },
+   {
+    "unit": "bottle",
+    "qty": 0.75
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 5
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 25
+   }
+  ]
+ },
+ {
+  "id": "p-yam-flour",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Yam Flour (Elubo)",
+  "unit": "derica",
+  "price": 1620,
+  "stock": 278,
+  "img": "yam_flour",
+  "desc": "Dried yam flour for smooth amala isu.",
+  "emoji": "🥣",
+  "tip": "Stir into boiling water for amala; keep sealed and dry.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 0.9
+   },
+   {
+    "unit": "kg",
+    "qty": 5.556,
+    "kg": 5
+   },
+   {
+    "unit": "bag",
+    "qty": 27.778,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-plantain-flour",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Plantain Flour",
+  "unit": "packet",
+  "price": 1100,
+  "stock": 300,
+  "img": "plantain_flour",
+  "desc": "Unripe plantain flour for a soft, healthy swallow.",
+  "emoji": "🥣",
+  "tip": "Stir into hot water like amala. Keep dry.",
+  "measures": [
+   {
+    "unit": "packet",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-tapioca",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Tapioca",
+  "unit": "derica",
+  "price": 1600,
+  "stock": 200,
+  "img": "tapioca",
+  "desc": "Dried tapioca pearls for pudding and sweet desserts.",
+  "emoji": "🥣",
+  "tip": "Soak and boil until clear. Keep dry.",
+  "measures": [
+   {
+    "unit": "derica",
+    "qty": 1.0,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0,
+    "kg": 5
+   },
+   {
+    "unit": "carton",
+    "qty": 10.0,
+    "kg": 10
+   }
+  ]
+ },
+ {
+  "id": "p-iru",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Locust Beans (Iru)",
+  "unit": "tin",
+  "price": 2400,
+  "stock": 200,
+  "img": "iru",
+  "desc": "Fermented locust beans, the savoury seasoning for soups and stews.",
+  "emoji": "🫘",
+  "tip": "Keep refrigerated or frozen; add to soup after the oil is hot.",
+  "measures": [
+   {
+    "unit": "tin",
+    "qty": 1.0,
+    "kg": 0.4
+   },
+   {
+    "unit": "kg",
+    "qty": 2.5,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "p-ogbono",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Ogbono (Dried Seeds)",
+  "unit": "tin",
+  "price": 3800,
+  "stock": 250,
+  "img": "ogbono",
+  "desc": "Dried ogbono (wild mango) seeds for draw soup.",
+  "emoji": "🌰",
+  "tip": "Grind and stir into hot palm oil for ogbono soup. Keep sealed.",
+  "measures": [
+   {
+    "unit": "tin",
+    "qty": 1.0,
+    "kg": 0.4
+   },
+   {
+    "unit": "kg",
+    "qty": 2.5,
+    "kg": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 12.5,
+    "kg": 5
+   }
+  ]
+ },
+ {
+  "id": "p-kulikuli",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Kuli-Kuli (Groundnut Cake)",
+  "unit": "bowl",
+  "price": 1750,
+  "stock": 240,
+  "img": "kulikuli",
+  "desc": "Crunchy kuli-kuli, a classic groundnut snack.",
+  "emoji": "🥜",
+  "tip": "Eat with garri and sugar or on its own. Keep dry and sealed.",
+  "measures": [
+   {
+    "unit": "bowl",
+    "qty": 1.0,
+    "kg": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 2.0,
+    "kg": 1
+   },
+   {
+    "unit": "bag",
+    "qty": 50.0,
+    "kg": 25
+   }
+  ]
+ },
+ {
+  "id": "p-wara",
+  "kind": "produce",
+  "category": "processed",
+  "name": "Wara (Local Cheese)",
+  "unit": "pack",
+  "price": 2000,
+  "stock": 70,
+  "img": "wara",
+  "desc": "Soft, fresh Nigerian cheese made from cow milk.",
+  "emoji": "🧀",
+  "tip": "Keep in water in the fridge and eat within 3–4 days.",
+  "measures": [
+   {
+    "unit": "pack",
+    "qty": 1
+   },
+   {
+    "unit": "bowl",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "id": "l-pig-lw",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Large White Pig (Live)",
+  "unit": "kg",
+  "price": 2300,
+  "stock": 400,
+  "img": "pig_mature",
+  "desc": "Fast-growing Large White breed, vet-checked. Sold live by weight.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 20
+   },
+   {
+    "unit": "kg",
+    "qty": 40
+   },
+   {
+    "unit": "kg",
+    "qty": 60
+   },
+   {
+    "unit": "kg",
+    "qty": 80
+   }
+  ]
+ },
+ {
+  "id": "l-pig-landrace",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Landrace Pig (Live)",
+  "unit": "kg",
+  "price": 2300,
+  "stock": 300,
+  "img": "pig_landrace",
+  "desc": "Long-bodied Landrace breed, good meat yield. Sold live by weight.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 20
+   },
+   {
+    "unit": "kg",
+    "qty": 40
+   },
+   {
+    "unit": "kg",
+    "qty": 60
+   },
+   {
+    "unit": "kg",
+    "qty": 80
+   }
+  ]
+ },
+ {
+  "id": "l-pig-duroc",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Duroc Pig (Live)",
+  "unit": "kg",
+  "price": 2400,
+  "stock": 250,
+  "img": "pig_duroc",
+  "desc": "Hardy red Duroc breed with well-marbled meat. Sold live by weight.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 20
+   },
+   {
+    "unit": "kg",
+    "qty": 40
+   },
+   {
+    "unit": "kg",
+    "qty": 60
+   },
+   {
+    "unit": "kg",
+    "qty": 80
+   }
+  ]
+ },
+ {
+  "id": "l-pork",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Fresh Pork (Dressed)",
+  "unit": "kg",
+  "price": 3000,
+  "stock": 150,
+  "img": "pork",
+  "desc": "Cleaned, dressed pork sold by the kilo, ready for the kitchen.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "carcass",
+    "qty": 60.0
+   }
+  ]
+ },
+ {
+  "id": "l-pig2",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Weaner Pig",
+  "unit": "head",
+  "price": 32000,
+  "stock": 14,
+  "img": "pig_weaner",
+  "desc": "Recently weaned pig, active and feeding well — ready to grow out on your farm.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "l-cow-wf",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "White Fulani (Bunaji) Cattle",
+  "unit": "head",
+  "price": 650000,
+  "stock": 5,
+  "img": "cow_white_fulani",
+  "desc": "Gentle, dual-purpose White Fulani — good for milk and beef.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "herd",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-cow-rb",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Red Bororo (Rahaji) Cattle",
+  "unit": "head",
+  "price": 600000,
+  "stock": 5,
+  "img": "cow_red_bororo",
+  "desc": "Hardy, long-horned Red Bororo — strong and heat-tolerant.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "herd",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-cow-sg",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Sokoto Gudali Cattle",
+  "unit": "head",
+  "price": 700000,
+  "stock": 4,
+  "img": "cow_sokoto_gudali",
+  "desc": "Large, muscular Sokoto Gudali — a top beef breed.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "herd",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-goat",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Goat (Live)",
+  "unit": "head",
+  "price": 85000,
+  "stock": 25,
+  "img": "goat",
+  "desc": "Healthy West African Dwarf goats, good for meat and breeding.",
+  "emoji": "🐐",
+  "tip": "Keep in a clean, dry pen with water. Comes with a vet health certificate.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "herd",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-sheep",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Yankasa Sheep (Live)",
+  "unit": "head",
+  "price": 95000,
+  "stock": 20,
+  "img": "sheep",
+  "desc": "Hardy Yankasa sheep, a popular meat breed.",
+  "emoji": "🐑",
+  "tip": "Provide shade and clean water on arrival. Comes with a vet health certificate.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "flock",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-ram",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Sallah Ram (Large)",
+  "unit": "head",
+  "price": 220000,
+  "stock": 8,
+  "img": "ram",
+  "desc": "Large, well-fed rams, popular for festivals and ceremonies.",
+  "emoji": "🐏",
+  "tip": "Order early before festivals. Comes with a vet health certificate.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "l-rabbit",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Rabbit (Live)",
+  "unit": "head",
+  "price": 8500,
+  "stock": 40,
+  "img": "rabbit",
+  "desc": "Healthy rabbits for meat or breeding.",
+  "emoji": "🐇",
+  "tip": "Keep cool, dry and shaded; feed greens and pellets.",
+  "measures": [
+   {
+    "unit": "head",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "l-beef",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Fresh Beef",
+  "unit": "kg",
+  "price": 4200,
+  "stock": 120,
+  "img": "beef",
+  "desc": "Freshly butchered beef cuts, hygienically packed.",
+  "emoji": "🥩",
+  "tip": "Refrigerate and cook within 2 days, or freeze in portions.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-goatmeat",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Goat Meat (Fresh)",
+  "unit": "kg",
+  "price": 5200,
+  "stock": 60,
+  "img": "goatmeat",
+  "desc": "Fresh goat meat for pepper soup, suya and stews.",
+  "emoji": "🥩",
+  "tip": "Refrigerate and cook within 2 days, or freeze.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   }
+  ]
+ },
+ {
+  "id": "l-honey",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Raw Honey (1 Litre)",
+  "unit": "litre",
+  "price": 7500,
+  "stock": 70,
+  "img": "honey",
+  "desc": "Pure, unprocessed forest honey.",
+  "emoji": "🍯",
+  "tip": "Store sealed at room temperature; it may crystallise, which is natural.",
+  "measures": [
+   {
+    "unit": "ml",
+    "qty": 0.5
+   },
+   {
+    "unit": "litre",
+    "qty": 1
+   },
+   {
+    "unit": "bottle",
+    "qty": 0.75
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 5
+   }
+  ]
+ },
+ {
+  "id": "l-milk",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Fresh Cow Milk",
+  "unit": "litre",
+  "price": 1500,
+  "stock": 80,
+  "img": "milk",
+  "desc": "Fresh farm cow milk, delivered chilled.",
+  "emoji": "🥛",
+  "tip": "Keep refrigerated and boil before drinking; use within 2 days.",
+  "measures": [
+   {
+    "unit": "ml",
+    "qty": 0.5
+   },
+   {
+    "unit": "litre",
+    "qty": 1
+   },
+   {
+    "unit": "jerrycan",
+    "qty": 5
+   },
+   {
+    "unit": "bucket",
+    "qty": 10
+   }
+  ]
+ },
+ {
+  "id": "l-snail",
+  "kind": "livestock",
+  "category": "livestock",
+  "name": "Giant African Snails (Live)",
+  "unit": "dozen",
+  "price": 6000,
+  "stock": 50,
+  "img": "snail",
+  "desc": "Large, live giant African land snails.",
+  "emoji": "🐌",
+  "tip": "Keep in a cool, damp, ventilated container and cook within a few days.",
+  "measures": [
+   {
+    "unit": "dozen",
+    "qty": 1
+   },
+   {
+    "unit": "basin",
+    "qty": 6
+   }
+  ]
+ },
+ {
+  "id": "l-eggs",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Fresh Eggs (Crate of 30)",
+  "unit": "crate",
+  "price": 4800,
+  "stock": 40,
+  "img": "eggs",
+  "desc": "Farm-fresh table eggs, collected daily and sold by the crate of 30.",
+  "measures": [
+   {
+    "unit": "crate",
+    "qty": 1
+   },
+   {
+    "unit": "dozen",
+    "qty": 0.4,
+    "label": "Dozen (12 eggs)"
+   },
+   {
+    "unit": "carton",
+    "qty": 12,
+    "label": "Carton (12 crates)"
+   }
+  ]
+ },
+ {
+  "id": "l-broiler",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Table-Ready Broiler",
+  "unit": "kg",
+  "price": 1500,
+  "stock": 120,
+  "img": "broiler",
+  "desc": "Vet-cleared broilers, sold live or dressed (processed) by the kilo.",
+  "modes": {
+   "live": 1500,
+   "processed": 2000
+  },
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1
+   },
+   {
+    "unit": "kg",
+    "qty": 2
+   },
+   {
+    "unit": "kg",
+    "qty": 3
+   }
+  ]
+ },
+ {
+  "id": "l-broiler2",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Broiler Chicks (8wks)",
+  "unit": "bird",
+  "price": 1800,
+  "stock": 3,
+  "img": "broiler_svg",
+  "desc": "8-week-old broiler chicks, vaccinated, ready for finishing to table weight.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "carton",
+    "qty": 100
+   },
+   {
+    "unit": "flock",
+    "qty": 500
+   }
+  ]
+ },
+ {
+  "id": "l-layer",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Point-of-Lay Layer Hen",
+  "unit": "bird",
+  "price": 6500,
+  "stock": 120,
+  "img": "layer",
+  "desc": "Young laying hens about to start production.",
+  "emoji": "🐔",
+  "tip": "Provide layer mash, clean water and nesting boxes.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "flock",
+    "qty": 50
+   }
+  ]
+ },
+ {
+  "id": "l-local-chicken",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Local Free-Range Chicken (Live)",
+  "unit": "bird",
+  "price": 9000,
+  "stock": 60,
+  "img": "local_chicken",
+  "desc": "Free-range local chicken with firm, flavourful meat.",
+  "emoji": "🐓",
+  "tip": "Ideal for pepper soup and traditional dishes.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "l-cockerel",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Cockerel (Live)",
+  "unit": "bird",
+  "price": 8500,
+  "stock": 50,
+  "img": "cockerel",
+  "desc": "Healthy live cockerels for the pot or for rearing.",
+  "emoji": "🐓",
+  "tip": "Keep in a ventilated cage and cook or rear soon.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "flock",
+    "qty": 20
+   }
+  ]
+ },
+ {
+  "id": "l-turkey",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Turkey (Live)",
+  "unit": "bird",
+  "price": 38000,
+  "stock": 20,
+  "img": "turkey",
+  "desc": "Well-fed live turkeys for festive occasions.",
+  "emoji": "🦃",
+  "tip": "Order early for festive seasons. Comes with a vet certificate.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "id": "l-duck",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Duck (Live)",
+  "unit": "bird",
+  "price": 12000,
+  "stock": 25,
+  "img": "duck",
+  "desc": "Healthy live ducks for meat and rearing.",
+  "emoji": "🦆",
+  "tip": "Provide clean water for drinking and a dry shelter.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "flock",
+    "qty": 20
+   }
+  ]
+ },
+ {
+  "id": "l-guinea-fowl",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Guinea Fowl (Live)",
+  "unit": "bird",
+  "price": 11000,
+  "stock": 30,
+  "img": "guinea_fowl",
+  "desc": "Live guinea fowl, a lean, flavourful local bird.",
+  "emoji": "🐦",
+  "tip": "Keep in an enclosure with shade and water.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "pair",
+    "qty": 2
+   },
+   {
+    "unit": "flock",
+    "qty": 20
+   }
+  ]
+ },
+ {
+  "id": "l-quail-eggs",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Quail Eggs (Tray of 30)",
+  "unit": "tray",
+  "price": 3000,
+  "stock": 60,
+  "img": "quail_eggs",
+  "desc": "Small, rich quail eggs sold by the tray of 30.",
+  "emoji": "🥚",
+  "tip": "Boil 3–4 minutes for snacks and salads. Keep cool.",
+  "measures": [
+   {
+    "unit": "tray",
+    "qty": 1
+   },
+   {
+    "unit": "carton",
+    "qty": 12
+   }
+  ]
+ },
+ {
+  "id": "l-doc",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Day-Old Chicks",
+  "unit": "bird",
+  "price": 850,
+  "stock": 500,
+  "img": "doc",
+  "desc": "Vaccinated day-old chicks for starting your own flock.",
+  "emoji": "🐤",
+  "tip": "Provide warmth (brooder), clean water and starter feed immediately.",
+  "measures": [
+   {
+    "unit": "bird",
+    "qty": 1
+   },
+   {
+    "unit": "carton",
+    "qty": 100
+   },
+   {
+    "unit": "flock",
+    "qty": 500
+   }
+  ]
+ },
+ {
+  "id": "l-chicken-parts",
+  "kind": "livestock",
+  "category": "poultry",
+  "name": "Chicken Parts (Drumsticks & Thighs)",
+  "unit": "kg",
+  "price": 3200,
+  "stock": 90,
+  "img": "chicken_parts",
+  "desc": "Cleaned, packed chicken drumsticks and thighs.",
+  "emoji": "🍗",
+  "tip": "Refrigerate and cook within 2 days, or freeze.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "carton",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-catfish-live",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Live Catfish",
+  "unit": "kg",
+  "price": 3200,
+  "stock": 150,
+  "img": "catfish_live",
+  "desc": "Live pond-raised catfish, sold by weight.",
+  "emoji": "🐟",
+  "tip": "Keep in water until cooking. Great for pepper soup and grilling.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-catfish-smoked",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Smoked Catfish",
+  "unit": "kg",
+  "price": 6500,
+  "stock": 80,
+  "img": "catfish_smoked",
+  "desc": "Hot-smoked catfish for soups and stews.",
+  "emoji": "🐟",
+  "tip": "Wash briefly and add to soup. Keeps well when frozen.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-tilapia-fresh",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Fresh Tilapia",
+  "unit": "kg",
+  "price": 3000,
+  "stock": 100,
+  "img": "tilapia_fresh",
+  "desc": "Fresh pond tilapia, cleaned on request.",
+  "emoji": "🐟",
+  "tip": "Cook the same day or freeze. Good grilled or in pepper soup.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-tilapia-smoked",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Smoked Tilapia",
+  "unit": "kg",
+  "price": 5500,
+  "stock": 60,
+  "img": "tilapia_smoked",
+  "desc": "Smoked tilapia for soups and stews.",
+  "emoji": "🐟",
+  "tip": "Rinse and add near the end of cooking.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "kg",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-titus",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Frozen Titus (Mackerel)",
+  "unit": "kg",
+  "price": 3800,
+  "stock": 120,
+  "img": "titus",
+  "desc": "Frozen titus mackerel, a popular affordable fish.",
+  "emoji": "🐟",
+  "tip": "Thaw in the fridge and cook the same day.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "carton",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-croaker",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Croaker Fish (Frozen)",
+  "unit": "kg",
+  "price": 4500,
+  "stock": 80,
+  "img": "croaker",
+  "desc": "Frozen croaker fish for stews and frying.",
+  "emoji": "🐟",
+  "tip": "Thaw slowly in the fridge before cooking.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "carton",
+    "qty": 10.0
+   }
+  ]
+ },
+ {
+  "id": "l-stockfish",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Stockfish (Okporoko)",
+  "unit": "kg",
+  "price": 12000,
+  "stock": 50,
+  "img": "stockfish",
+  "desc": "Dried stockfish for egusi, afang and ogbono soups.",
+  "emoji": "🐟",
+  "tip": "Soak in hot water until soft, then clean and cook.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "bale",
+    "qty": 25.0
+   }
+  ]
+ },
+ {
+  "id": "l-bonga",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Smoked Bonga Fish (Shawa)",
+  "unit": "kg",
+  "price": 3500,
+  "stock": 90,
+  "img": "bonga",
+  "desc": "Smoky bonga fish for soups and stews.",
+  "emoji": "🐟",
+  "tip": "Rinse, debone and add to soup for flavour.",
+  "measures": [
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   },
+   {
+    "unit": "bag",
+    "qty": 25.0
+   }
+  ]
+ },
+ {
+  "id": "l-crayfish",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Dried Crayfish (Whole)",
+  "unit": "tin",
+  "price": 6000,
+  "stock": 150,
+  "img": "crayfish",
+  "desc": "Dried crayfish, the essential Nigerian soup flavour.",
+  "emoji": "🦐",
+  "tip": "Grind or use whole; keep sealed in a dry place.",
+  "measures": [
+   {
+    "unit": "g",
+    "qty": 0.25,
+    "kg": 0.1
+   },
+   {
+    "unit": "g",
+    "qty": 0.625,
+    "kg": 0.25
+   },
+   {
+    "unit": "tin",
+    "qty": 1.0,
+    "kg": 0.4
+   },
+   {
+    "unit": "kg",
+    "qty": 2.5,
+    "kg": 1
+   }
+  ]
+ },
+ {
+  "id": "l-prawns",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Fresh Prawns",
+  "unit": "kg",
+  "price": 7500,
+  "stock": 40,
+  "img": "prawns",
+  "desc": "Fresh prawns, cleaned and chilled.",
+  "emoji": "🦐",
+  "tip": "Cook quickly (3–4 minutes) to keep them tender.",
+  "measures": [
+   {
+    "unit": "g",
+    "qty": 0.5
+   },
+   {
+    "unit": "kg",
+    "qty": 1.0
+   },
+   {
+    "unit": "kg",
+    "qty": 5.0
+   }
+  ]
+ },
+ {
+  "id": "l-fingerlings",
+  "kind": "livestock",
+  "category": "fish",
+  "name": "Catfish Fingerlings",
+  "unit": "fingerling",
+  "price": 120,
+  "stock": 4000,
+  "img": "fingerlings",
+  "desc": "Healthy catfish fingerlings for pond stocking, sold per fingerling, per pack of 100 or per pond lot.",
+  "emoji": "🐟",
+  "tip": "Acclimatise slowly to pond water before releasing.",
+  "measures": [
+   {
+    "unit": "fingerling",
+    "qty": 1
+   },
+   {
+    "unit": "pack",
+    "qty": 100
+   },
+   {
+    "unit": "tank",
+    "qty": 500
+   },
+   {
+    "unit": "pond",
+    "qty": 2000
+   }
+  ]
+ }
+]
